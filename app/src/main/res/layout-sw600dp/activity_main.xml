@@ -8,8 +8,8 @@
 
     <ImageView
         android:id="@+id/imageView2"
-        android:layout_width="734dp"
-        android:layout_height="1033dp"
+        android:layout_width="613dp"
+        android:layout_height="960dp"
         app:srcCompat="@mipmap/ic_launcher"
         tools:layout_editor_absoluteX="-4dp"
         tools:layout_editor_absoluteY="-3dp" />
@@ -19,8 +19,8 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="@string/boton"
-        tools:layout_editor_absoluteX="346dp"
-        tools:layout_editor_absoluteY="895dp" />
+        tools:layout_editor_absoluteX="256dp"
+        tools:layout_editor_absoluteY="765dp" />
 
     <TextView
         android:id="@+id/textView2"
@@ -28,7 +28,7 @@
         android:layout_height="wrap_content"
         android:text="@string/texto"
         android:textSize="@android:dimen/notification_large_icon_height"
-        tools:layout_editor_absoluteX="228dp"
-        tools:layout_editor_absoluteY="312dp" />
+        tools:layout_editor_absoluteX="144dp"
+        tools:layout_editor_absoluteY="274dp" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
